@@ -1,0 +1,43 @@
+.clockpicker {
+    width: 50%;
+}
+
+.wp-admin #sdrostClasses_box select {
+    height: 34px;
+    width: 15%;
+}
+
+
+#sdrostClasses_box input:not(class*='colorpicker'), #sdrostClasses_box select{
+    height: 34px;
+    width: 15%;
+}
+button.add-button {
+    background-image: url('./../img/add.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    height: 34px;
+    position: relative;
+    vertical-align: bottom;
+    width: 34px;
+}
+button.remove-button {
+    background-image: url('./../img/round-remove-button.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    height: 34px;
+    position: relative;
+    vertical-align: bottom;
+    width: 34px;
+}
+.sdrost_class_trainer_fieldset {
+    margin-top: 10px;
+}
+
+@media only screen and (min-width: 1200px) {
+    .clockpicker {
+        width: 15%;
+    }
+}

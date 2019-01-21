@@ -1,0 +1,33 @@
+tr {
+    border: none;
+}
+.pdfThumbnail{
+    border: 1px solid #CCC;
+}
+.newsLink, .newsLink a{
+    color: #4d6a79 !important;
+}
+.classesWeekDay{
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 15px;
+}
+.classes-table-empty {
+    text-align: center;
+}
+.classes-table {
+    width: 100%;
+    text-align: left;
+}
+.classes-table td {
+    width: 50%;
+    padding-left: 5%;
+}
+.classes-table .content-row {
+    border-bottom: 1px solid #eee;
+}
+.classesTime {
+    color: #4d6a79;
+    font-size: 1.2em;
+}
