@@ -2,7 +2,166 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ed7ea01-c0bb-4ec6-b3bd-f8bbd23d4d80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-af.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-af.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-ar.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-ar.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-bg_BG.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-bg_BG.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-ca.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-ca.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-cs_CZ.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-cs_CZ.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-da_DK.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-da_DK.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-de_DE.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-de_DE.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-de_DE.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-de_DE.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-el.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-el.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-en_GB.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-en_GB.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-es_ES.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-es_ES.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-et.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-et.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-fi.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-fi.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-fr_CA.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-fr_CA.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-fr_FR.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-fr_FR.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-hu_HU.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-hu_HU.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-id_ID.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-id_ID.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-is_IS.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-is_IS.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-it_IT.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-it_IT.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-ja.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-ja.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-lt_LT.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-lt_LT.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-lv.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-lv.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-nb_NO.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-nb_NO.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-nl_NL.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-nl_NL.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-pl_PL.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-pl_PL.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-pt_BR.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-pt_BR.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-pt_PT.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-pt_PT.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-ro_RO.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-ro_RO.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-ru_RU.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-ru_RU.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-sk_SK.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-sk_SK.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-sl_SI.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-sl_SI.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-sr_RS.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-sr_RS.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-sv_SE.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-sv_SE.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-tr_TR.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-tr_TR.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-zh_CN.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-zh_CN.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-zh_TW.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common-zh_TW.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common.pot" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/lang/tribe-common.pot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/Tribe/Asset/Data.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/Tribe/Asset/Data.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/Tribe/Editor.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/Tribe/Editor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/Tribe/Editor/Utils.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/Tribe/Editor/Utils.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/Tribe/Main.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/Tribe/Main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/modules/elements/image-upload/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/modules/elements/image-upload/element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/modules/elements/time-picker/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/modules/elements/time-picker/element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/modules/utils/date.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/modules/utils/date.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/css/tribe-common-admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/css/tribe-common-admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/css/tribe-common-admin.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/css/tribe-common-admin.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/admin-date-preview.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/admin-date-preview.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/admin-log-controls.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/admin-log-controls.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/app-shop.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/app-shop.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/app/elements.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/app/elements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/app/elements.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/app/elements.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/app/elements.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/app/elements.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/app/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/app/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/app/utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/app/utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/app/utils.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/app/utils.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/bumpdown.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/bumpdown.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/buttonset.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/buttonset.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/dependency.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/dependency.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/dropdowns.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/dropdowns.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/notice-dismiss.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/notice-dismiss.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/pue-notices.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/pue-notices.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/timepicker.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/timepicker.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/tribe-common.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/tribe-common.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/tribe-datatables.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/tribe-datatables.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-before.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-before.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/utils-camelcase.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/utils-camelcase.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/validation.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/js/validation.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/postcss/tribe-common-admin.pcss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/src/resources/postcss/tribe-common-admin.pcss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/common/tribe-common.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-ca.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-ca.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-ca.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-ca.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-de_DE.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-de_DE.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-de_DE.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-de_DE.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-en_AU.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-en_AU.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-en_AU.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-en_AU.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-en_CA.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-en_CA.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-en_CA.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-en_CA.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-en_NZ.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-en_NZ.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-en_NZ.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-en_NZ.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-fr_FR.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-fr_FR.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-fr_FR.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-fr_FR.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-is_IS.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-is_IS.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-is_IS.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-is_IS.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-it_IT.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-it_IT.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-it_IT.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-it_IT.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-sv_SE.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-sv_SE.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-sv_SE.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar-sv_SE.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar.pot" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/lang/the-events-calendar.pot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/Tribe/Editor/Compatibility.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/Tribe/Editor/Compatibility.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/Tribe/Editor/Meta.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/Tribe/Editor/Meta.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/Tribe/Editor/Template/Overwrite.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/Tribe/Editor/Template/Overwrite.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/Tribe/Main.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/Tribe/Main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/Tribe/Meta/Context.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/Tribe/Meta/Context.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/Tribe/Meta/Save.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/Tribe/Meta/Save.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/Tribe/iCal.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/Tribe/iCal.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/admin-views/admin-welcome-message.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/admin-views/admin-welcome-message.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/admin-views/tribe-options-general.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/admin-views/tribe-options-general.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/blocks/event-datetime/style.pcss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/blocks/event-datetime/style.pcss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/blocks/event-datetime/subblocks/content/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/blocks/event-datetime/subblocks/content/template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/blocks/event-venue/style.pcss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/blocks/event-venue/style.pcss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/blocks/event-venue/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/blocks/event-venue/template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/blocks/event-venue/venue-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/blocks/event-venue/venue-details.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/blocks/style.pcss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/blocks/style.pcss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/data/blocks/datetime/sagas.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/data/blocks/datetime/sagas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/elements/search-or-create/style.pcss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/elements/search-or-create/style.pcss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/elements/terms-list/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/elements/terms-list/element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/elements/terms-list/style.pcss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/modules/elements/terms-list/style.pcss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/css/app/blocks.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/css/app/blocks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/css/app/blocks.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/css/app/blocks.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/css/app/blocks.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/css/app/blocks.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/css/app/elements.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/css/app/elements.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/css/app/elements.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/css/app/elements.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/css/app/elements.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/css/app/elements.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/admin-ignored-events.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/admin-ignored-events.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/aggregator-admin-legacy-settings.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/aggregator-admin-legacy-settings.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/aggregator-fields.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/aggregator-fields.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/blocks.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/blocks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/blocks.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/blocks.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/blocks.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/blocks.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/classic-event-details/frontend.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/classic-event-details/frontend.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/data.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/data.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/data.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/data.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/editor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/editor.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/editor.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/editor.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/editor.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/elements.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/elements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/elements.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/elements.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/elements.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/elements.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/event-category/frontend.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/event-category/frontend.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/event-datetime/frontend.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/event-datetime/frontend.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/event-links/frontend.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/event-links/frontend.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/event-organizer/frontend.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/event-organizer/frontend.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/event-price/frontend.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/event-price/frontend.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/event-tags/frontend.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/event-tags/frontend.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/event-venue/frontend.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/event-venue/frontend.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/event-website/frontend.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/event-website/frontend.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/hoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/hoc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/hoc.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/hoc.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/hoc.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/hoc.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/icons.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/app/icons.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/embedded-map.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/embedded-map.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/events-admin-timezone-updater.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/events-admin-timezone-updater.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/events-admin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/events-admin.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/events-dynamic.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/events-dynamic.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/jquery-ecp-plugins.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/jquery-ecp-plugins.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events-ajax-calendar.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events-ajax-calendar.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events-ajax-day.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events-ajax-day.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events-ajax-list.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events-ajax-list.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events-bar.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events-bar.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/tribe-settings.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/js/tribe-settings.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/postcss/tribe-events-full.pcss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/resources/postcss/tribe-events-full.pcss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/views/blocks/event-tags.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/src/views/blocks/event-tags.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/the-events-calendar.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/the-events-calendar/the-events-calendar.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +205,7 @@
         <entry file="file://$PROJECT_DIR$/.git/hooks/pre-commit">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
-              <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -76,7 +235,7 @@
       <path value="$PROJECT_DIR$/wp-content/themes/twentynineteen/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1096" />
@@ -119,24 +278,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548154400560</updated>
-      <workItem from="1548154401891" duration="796000" />
+      <workItem from="1548154401891" duration="2169000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="796000" />
+    <option name="totallyTimeSpent" value="2169000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1096" height="1855" extended-state="6" />
+    <frame x="-8" y="-8" width="1096" height="1855" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25579152" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579152" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.2707728" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.2707728" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -161,7 +320,7 @@
     <entry file="file://$PROJECT_DIR$/.git/hooks/pre-commit">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
         </state>
       </provider>
     </entry>
